@@ -23,12 +23,12 @@
   ],
   "version": "4.2.0",
   "main": "index.js",
-  "repository": "github:tediousjs/node-mssql",
+  "repository": "github:jbreckman/node-mssql",
   "license": "MIT",
   "dependencies": {
     "debug": "^3.1.0",
     "generic-pool": "^3.4.2",
-    "tedious": "^2.3.1"
+    "teddy-us": "^0.0.0-dev"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
